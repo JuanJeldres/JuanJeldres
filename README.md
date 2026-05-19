@@ -1,7 +1,6 @@
 # Hola, soy Juan 👋
 
 ## Sobre mí
-
 Soy **psicólogo de reclutamiento y selección y estudiante de desarrollo Full Stack Java Jr**.
 Interesado en tecnología, automatización y soluciones digitales aplicadas a organizaciones y personas.
 
@@ -30,10 +29,11 @@ Mi meta es convertirme en desarrollador/a e innovar en el mundo del reclutamient
 **"Sapere Aude! (atrevete a saber), ten el valor de servirte de tu propio entendimiento, sin la guía de otro."** - **Immanuel Kant**
 
 -----------------------------------------------------------------------------------------------------------------------------------*
+# English
 
-## Hi there, my name is Juan Jeldres 👋
+# Hi there, my name is Juan Jeldres 👋
+
 ## About me
-
 I am a **Recruitment and Selection Psychologist and a Full Stack Java Jr student**.  
 Interested in technology, automation, and digital solutions applied to organizations and people.
 
