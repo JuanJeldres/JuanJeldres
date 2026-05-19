@@ -1,7 +1,7 @@
 # Hola, soy Juan 👋
 
 ## Sobre mí
-Soy **psicólogo de reclutamiento y selección y estudiante de desarrollo Full Stack Java Jr**.
+Soy **psicólogo de reclutamiento & selección y estudiante de desarrollo Full Stack Java Jr**.
 Interesado en tecnología, automatización y soluciones digitales aplicadas a organizaciones y personas.
 
 Actualmente participando en el bootcamp Generation Chile como desarrollador Full Stack Java Jr.
