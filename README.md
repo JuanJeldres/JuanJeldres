@@ -7,7 +7,7 @@ Interesado en tecnología, automatización y soluciones digitales aplicadas a or
 Actualmente participando en el bootcamp Generation Chile como desarrollador Full Stack Java Jr.
 
 - 🌱 Actualmente estoy aprendiendo --> Javascript, Java
-- 🔭 Actualmente estoy trabajando en --> developing my online presentation/image/personal brand
+- 🔭 Actualmente estoy trabajando en --> desarrollar mi imagen y marca personal online
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
   - [Mi perfil de GitHub](https://github.com/JuanJeldres)
@@ -42,7 +42,7 @@ Currently participating in the Generation Chile bootcamp as a Full Stack Java Jr
 - Interested in web development
 
 - 🌱 I’m currently learning --> Javascript, Java
-- 🔭 I’m currently working on --> developing my online presentation/image/personal brand
+- 🔭 I’m currently working on --> developing my online image/personal brand
 - 📫 How to reach me:
       - [LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
       - [Mi perfil de GitHub](https://github.com/JuanJeldres)
