@@ -11,7 +11,7 @@ Actualmente participando en el bootcamp Generation Chile como desarrollador Full
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
   - [Mi perfil de GitHub](https://github.com/JuanJeldres)
-- ⚡ Dato curioso --> Me gustan las ranas
+- ⚡ Dato curioso --> Me gustan las ranas.
 
 ## Intereses
 
@@ -46,7 +46,7 @@ Currently participating in the Generation Chile bootcamp as a Full Stack Java Jr
 - 📫 How to reach me:
       - [LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
       - [Mi perfil de GitHub](https://github.com/JuanJeldres)
-- ⚡ Fun fact: I like frogs
+- ⚡ Fun fact --> I like frogs.
 
 ## Interests
 
