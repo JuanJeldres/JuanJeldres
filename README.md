@@ -23,7 +23,7 @@ Actualmente participando en el bootcamp Generation Chile como desarrollador Full
 - UX orientada a usuarios
 
 ## Meta
-Mi meta es convertirme en desarrollador/a e innovar en el mundo del reclutamiento y selección.
+Mi meta es convertirme en desarrollador e innovar en el mundo del reclutamiento y selección.
 
 ## Mensaje personal
 **"Sapere Aude! (atrevete a saber), ten el valor de servirte de tu propio entendimiento, sin la guía de otro."** - **Immanuel Kant**
