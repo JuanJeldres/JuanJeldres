@@ -11,6 +11,7 @@ Recientemente egresado del bootcamp Generation Chile como desarrollador Full Sta
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
 - ⚡ Dato curioso --> Me gustan las ranas.
+- Stack: JavaScript, Java, Spring Boot, HTML5, CSS3, Bootstrap, React, PostgreSQL
 
 ## Intereses
 
