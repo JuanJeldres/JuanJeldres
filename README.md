@@ -1,16 +1,15 @@
 # Hola, soy Juan 👋
 
 ## Sobre mí
-Soy **psicólogo de reclutamiento & selección y estudiante de desarrollo Full Stack Java Jr**.
+Soy **Desarrollador Full Stack Java Jr y psicólogo de reclutamiento & selección**.
 Interesado en tecnología, automatización y soluciones digitales aplicadas a organizaciones y personas.
 
-Actualmente participando en el bootcamp Generation Chile como desarrollador Full Stack Java Jr.
+Recientemente egresado del bootcamp Generation Chile como desarrollador Full Stack Java Jr.
 
-- 🌱 Actualmente estoy aprendiendo --> Javascript, Java
+- 🌱 Actualmente estoy aprendiendo --> AI learning
 - 🔭 Actualmente estoy trabajando en --> desarrollar mi imagen y marca personal online
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
-  - [Mi perfil de GitHub](https://github.com/JuanJeldres)
 - ⚡ Dato curioso --> Me gustan las ranas.
 
 ## Intereses
