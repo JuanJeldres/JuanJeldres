@@ -7,7 +7,7 @@ Interesado en tecnología, automatización y soluciones digitales aplicadas a or
 Recientemente egresado del bootcamp Generation Chile como desarrollador Full Stack Java Jr.
 
 - 🌱 Actualmente estoy aprendiendo --> Integración de servicios en la nube, reforzando NodeJS
-- 🔭 Actualmente estoy trabajando en --> Proyecto personal "Saferoutes", desarrollar mi imagen y marca personal online
+- 🔭 Actualmente estoy trabajando en --> Proyecto personal "SafeRoutes", desarrollar mi imagen y marca personal online
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
 - ⚡ Dato curioso --> Me gustan las ranas, Monster Hunter y la historia antigua.
