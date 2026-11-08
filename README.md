@@ -1,17 +1,17 @@
 # Hola, soy Juan 👋
 
 ## Sobre mí
-Soy **Desarrollador Full Stack Java Jr y psicólogo de reclutamiento & selección**.
+Soy **Desarrollador Full Stack Java Jr y psicólogo de reclutamiento & selección**, actualmente formandome como Cloud Practitioner en AWS Re/Start Morris & Opazo.
 Interesado en tecnología, automatización y soluciones digitales aplicadas a organizaciones y personas.
 
 Recientemente egresado del bootcamp Generation Chile como desarrollador Full Stack Java Jr.
 
-- 🌱 Actualmente estoy aprendiendo --> AI learning
-- 🔭 Actualmente estoy trabajando en --> desarrollar mi imagen y marca personal online
+- 🌱 Actualmente estoy aprendiendo --> Integración de servicios en la nube, reforzando NodeJS
+- 🔭 Actualmente estoy trabajando en --> Proyecto personal "Saferoutes", desarrollar mi imagen y marca personal online
 - 📫 Contactate conmigo!:
   - [Mi perfil de LinkedIn](https://www.linkedin.com/in/juanjeldresorg/)
-- ⚡ Dato curioso --> Me gustan las ranas.
-- Stack: JavaScript, Java, Spring Boot, HTML5, CSS3, Bootstrap, React, PostgreSQL
+- ⚡ Dato curioso --> Me gustan las ranas, Monster Hunter y la historia antigua.
+- Stack: JavaScript, Java, Spring Boot, HTML5, CSS3, Bootstrap, React, PostgreSQL, 
 
 ## Intereses
 
@@ -23,7 +23,8 @@ Recientemente egresado del bootcamp Generation Chile como desarrollador Full Sta
 - UX orientada a usuarios
 
 ## Meta
-Mi meta es convertirme en desarrollador e innovar en el mundo del reclutamiento y selección.
+Mi meta es utilizar mis conocimientos para ayudar a transformar ideas en soluciones concretas.
+Proyectarme entrecruzando el mundo tech con el reclutamiento y selección.
 
 ## Mensaje personal
 **"Sapere Aude! (atrevete a saber), ten el valor de servirte de tu propio entendimiento, sin la guía de otro."** - **Immanuel Kant**
